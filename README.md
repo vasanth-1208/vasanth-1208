@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Vasantharaj M
 
-### AI/ML Developer • Full-Stack Engineer • Intelligent Systems Builder
+### AI/ML Engineer • Full-Stack Developer • Intelligent Systems Builder
 
-**Building intelligent software systems for real-world problems.**
+**I build AI-powered products that turn real-world problems into usable software.**
 
 <br/>
 
@@ -18,120 +18,152 @@
 <img src="https://img.shields.io/badge/LeetCode-vasanth__1208-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vasanth-1208&style=flat-square&color=blue"/>
+
 </div>
 
 ---
 
 ## ⚡ About Me
 
-* 🎓 **B.E. Computer Science & Engineering** student at **Bannari Amman Institute of Technology**
-* 🤖 Building **AI/ML-powered applications and intelligent systems**
-* 🌐 Experienced in **Full-Stack Web Development**
-* 🧠 Exploring **Generative AI, RAG, LLMs & AI Agents**
-* 🏗️ Interested in building **production-oriented software systems**
-* 🚀 I enjoy turning real-world problems into **usable technology solutions**
-* 💡 My projects span **FinTech, InsurTech, AgriTech, HealthTech, Heritage & Industrial AI**
+I'm a **B.E. Computer Science & Engineering student at Bannari Amman Institute of Technology**, focused on building intelligent software systems.
+
+My work sits at the intersection of:
+
+* 🤖 **AI / Machine Learning**
+* 🧠 **Generative AI, RAG & LLM Applications**
+* 🌐 **Full-Stack Web Development**
+* ⚙️ **Intelligent Decision Systems**
+* 📊 **Data-Driven Applications**
+* ☁️ **Cloud & Modern Software Engineering**
+
+I enjoy taking a problem from **idea → architecture → implementation → usable product**.
+
+> **Different domains. One goal — build technology that solves real problems.**
 
 ---
 
-## 🧠 What I Build
+## 🧩 What I Build
 
 <div align="center">
 
-| 🤖 Artificial Intelligence |   🌐 Full Stack   | ⚙️ Intelligent Systems |
-| :------------------------: | :---------------: | :--------------------: |
-|      Machine Learning      |  React / Next.js  |   Predictive Systems   |
-|        Generative AI       | Node.js / Express |  Decision Intelligence |
-|         RAG & LLMs         |     REST APIs     |      Risk Analysis     |
-|       AI Applications      |  Database Systems |   Real-Time Platforms  |
+|    🤖 AI & ML    |   🌐 Full Stack   | ⚙️ Intelligent Products |
+| :--------------: | :---------------: | :---------------------: |
+| Machine Learning |  React / Next.js  |    Predictive Systems   |
+|   Generative AI  | Node.js / Express |    Risk Intelligence    |
+|    RAG & LLMs    |     REST APIs     |     Decision Support    |
+|  AI Applications |     Databases     |   Real-Time Platforms   |
+|   Data Analysis  |     Modern UI     |        Automation       |
 
 </div>
 
 ---
 
-## 🚀 Featured Systems
+## 🚀 Selected Systems
 
 ### 🛡️ ZyroShield
 
-**AI-Powered Parametric Income Protection Platform**
+**AI-Powered Parametric Income Protection**
 
-> Protecting gig workers from income loss caused by environmental disruptions.
+Protecting gig delivery workers against income loss caused by environmental disruptions.
 
-**AI Risk Analysis • Parametric Insurance • Dynamic Pricing • Fraud Detection • Automated Claims**
+`Parametric Insurance` `Risk Analysis` `Dynamic Pricing` `Fraud Detection` `Automated Claims`
 
 <a href="https://github.com/vasanth-1208/ZyroShield">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ### 📜 Manuscript2Video AI
 
-**Multilingual Heritage Storytelling Platform**
+**Multilingual Heritage Storytelling**
 
-> Transforming historical manuscripts and images into multilingual digital stories.
+Transforms historical manuscripts and images into structured digital stories through an automated processing pipeline.
 
-**OCR • Translation • Story Generation • Narration • Video Generation**
+`OCR` `Translation` `Story Generation` `Narration` `Video Generation`
 
 <a href="https://github.com/vasanth-1208/Manuscript2Video-AI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ### 🌾 AgriTwin AI
 
-**Smart Farming Digital Twin Platform**
+**Smart Farming Digital Twin**
 
-> A digital representation of farmland for monitoring crops, soil, weather and agricultural risks.
+A digital representation of farmland for monitoring crops, soil conditions, weather and agricultural risks.
 
-**Digital Twin • Crop Monitoring • Soil Intelligence • Weather • AI Recommendations**
+`Digital Twin` `Crop Monitoring` `Soil Intelligence` `Weather` `AI Recommendations`
 
 <a href="https://github.com/vasanth-1208/AgriTwin_AI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ### 🏭 AI Predictive Maintenance
 
-**Intelligent Industrial Monitoring System**
+**Intelligent Industrial Monitoring**
 
-> Using machine telemetry and predictive intelligence to identify potential equipment failures.
+Analyzes machine telemetry and operational information to identify potential equipment failures and maintenance risks.
 
-**Machine Monitoring • Predictive Maintenance • Fleet Analytics • Risk Detection**
+`Machine Monitoring` `Predictive Maintenance` `Fleet Analytics` `Risk Detection`
 
 <a href="https://github.com/vasanth-1208/AI-Driven-Predictive-Maintenance-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ### 💳 CrediMind AI
 
-**Corporate Credit Appraisal & Risk Intelligence**
+**Credit Appraisal & Risk Intelligence**
 
-> Transforming financial applicant data into explainable credit risk insights and recommendations.
+Transforms applicant financial information into explainable credit-risk insights and lending recommendations.
 
-**Credit Analysis • Risk Assessment • Explainable Factors • Financial Intelligence**
+`Credit Analysis` `Risk Assessment` `Explainable AI` `Financial Intelligence`
 
 <a href="https://github.com/vasanth-1208/CrediMind-AI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ### 🔎 BITFind
 
-**Smart Campus Lost & Found Platform**
+**Smart Campus Lost & Found**
 
-> A campus-focused system for reporting, discovering and recovering lost items.
+A campus-focused platform for reporting, discovering and recovering lost items through a structured claim lifecycle.
 
-**Authentication • Lost & Found • Search • Matching • Claim Lifecycle**
+`Authentication` `Lost & Found` `Search` `Matching` `Claim Lifecycle`
 
 <a href="https://github.com/vasanth-1208/BITFind">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+
+---
+
+## 🧠 My Engineering Focus
+
+<div align="center">
+
+### AI → Data → Intelligence → Product
+
+**Machine Learning**
+↓
+**Generative AI / RAG / LLMs**
+↓
+**Decision Intelligence**
+↓
+**Full-Stack Applications**
+↓
+**Real-World Products**
+
+</div>
 
 ---
 
@@ -153,11 +185,11 @@
 
 ### AI / Data
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 <br/>
 
-**Generative AI • RAG • LLM Applications • Machine Learning • Data Analysis**
+`Machine Learning` `Generative AI` `RAG` `LLM Applications` `Data Analysis`
 
 ### Tools & Platforms
 
@@ -167,48 +199,18 @@
 
 ---
 
-## 🧩 My Engineering Journey
-
-<div align="center">
-
-```text
-        SOFTWARE DEVELOPMENT
-                 │
-                 ▼
-        FULL-STACK APPLICATIONS
-                 │
-                 ▼
-          MACHINE LEARNING
-                 │
-                 ▼
-          GENERATIVE AI
-                 │
-                 ▼
-             RAG + LLM
-                 │
-                 ▼
-       INTELLIGENT SYSTEMS
-                 │
-                 ▼
-        REAL-WORLD PRODUCTS
-```
-
-</div>
-
----
-
 ## 🔨 Currently Building
 
-* 🤖 AI-powered applications
-* 🧠 RAG & LLM-based systems
-* ⚙️ Intelligent decision-support platforms
-* 🌐 Production-oriented full-stack applications
+* 🤖 AI-powered applications and intelligent workflows
+* 🧠 RAG and LLM-based systems
+* ⚙️ Decision-support and predictive platforms
+* 🌐 Full-stack applications with production-oriented architecture
 * 📊 Data-driven analytics systems
-* 🚀 Experimenting with AI agents and automation
+* 🚀 AI agents and automation workflows
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
@@ -216,13 +218,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-1208&layout=compact&hide_border=true&theme=transparent" height="180"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vasanth-1208&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=vasanth-1208&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -238,35 +236,21 @@
 
 </a>
 
-<br/>
+<br/><br/>
 
-**Data Structures • Algorithms • SQL • Competitive Programming**
+**Data Structures • Algorithms • SQL • Problem Solving**
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Beyond Projects
 
-* 🏅 Participated in multiple **Hackathons & Technical Competitions**
-* 🚀 Built solutions across **AI, BFSI, Healthcare, Agriculture & Heritage**
-* ☁️ Exploring **Cloud & Generative AI technologies**
-* 💻 Consistently practicing **DSA & SQL**
-* 🧠 Building projects focused on solving **practical problems**
-
----
-
-## 📚 Areas I'm Exploring
-
-```text
-Artificial Intelligence     ████████████████████
-Generative AI               ██████████████████░░
-Full-Stack Development      ███████████████████░
-Machine Learning             █████████████████░░░
-RAG / LLM Applications       ████████████████░░░░
-Cloud & DevOps               █████████████░░░░░░░
-System Design                ███████████░░░░░░░░░
-```
+* 🏅 Participating in **hackathons and technical competitions**
+* 💡 Building solutions across **FinTech, InsurTech, AgriTech, HealthTech, Heritage & Industrial AI**
+* ☁️ Exploring **Cloud and Generative AI technologies**
+* 💻 Practicing **DSA, SQL and software engineering**
+* 🚀 Turning ideas into **working technical products**
 
 ---
 
@@ -275,11 +259,11 @@ System Design                ███████████░░░░░░
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vasantharajm1208/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/vasanth-1208">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/vasanth_1208/">
@@ -294,14 +278,12 @@ System Design                ███████████░░░░░░
 
 ### 💭
 
-> **"Don't just learn technology. Build something meaningful with it."**
+**Build with curiosity.
+Solve with intelligence.
+Ship with purpose.**
 
 <br/>
 
-**Learn → Build → Experiment → Improve → Ship**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vasanth-1208&style=flat-square&color=blue" />
+`Learn` → `Build` → `Experiment` → `Improve` → `Ship`
 
 </div>
