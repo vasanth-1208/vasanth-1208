@@ -4,9 +4,7 @@
 
 **AI/ML Developer · Full-Stack Developer · Backend Developer · Problem Solver**
 
-I build practical software that combines **Artificial Intelligence, Machine Learning, full-stack development, backend engineering, and data-driven systems**.
-
-My projects focus on solving real-world problems across healthcare, finance, agriculture, insurance, sustainability, education, and digital heritage.
+I build practical software that combines **Artificial Intelligence, Machine Learning, full-stack development, backend engineering, and data-driven systems** to solve real-world problems.
 
 ---
 
@@ -14,11 +12,11 @@ My projects focus on solving real-world problems across healthcare, finance, agr
 
 * 🎓 B.E. Computer Science & Engineering student at **Bannari Amman Institute of Technology**
 * 🤖 Interested in **AI/ML, Generative AI, RAG, and intelligent applications**
-* 🌐 Building **full-stack web applications and scalable backend systems**
-* 🧠 Strong interest in **problem solving, system design, and software engineering**
-* 📊 Exploring **data-driven applications and AI-powered decision systems**
-* 🚀 Focused on turning ideas into **usable, production-oriented software**
-* 💡 Interested in building technology that solves practical problems
+* 🌐 Building **full-stack web applications and backend systems**
+* 🧠 Interested in **system design, problem solving, and software engineering**
+* 📊 Exploring **AI-powered and data-driven decision systems**
+* 🚀 Focused on building **usable and production-oriented software**
+* 💡 Enjoy working on projects across different real-world domains
 
 ---
 
@@ -49,18 +47,17 @@ My projects focus on solving real-world problems across healthcare, finance, agr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
 
-### AI / Machine Learning
+### AI / Data
 
 * Machine Learning
 * Generative AI
 * Large Language Models
 * Retrieval-Augmented Generation (RAG)
-* AI-powered decision systems
 * Natural Language Processing
+* AI-powered decision systems
 * OpenAI APIs
 * Google Gemini
 * ChromaDB
-* AI application development
 
 ### Databases
 
@@ -82,17 +79,203 @@ My projects focus on solving real-world problems across healthcare, finance, agr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
-* Git & GitHub
-* Docker
-* Postman
-* Linux
-* REST APIs
-* Authentication & Authorization
-* Cloud deployment
+**Git · GitHub · Docker · Postman · Linux · REST APIs · Cloud Deployment**
 
 ---
 
-## 🧠 Areas of Interest
+# 🚀 Featured Projects
+
+These are the projects that best represent my interests in **AI, full-stack engineering, intelligent systems, and real-world problem solving**.
+
+## 🥇 [ZyroShield](https://github.com/vasanth-1208/ZyroShield)
+
+### AI-Powered Parametric Income Protection Platform
+
+A parametric insurance platform designed for gig delivery workers whose income can be affected by environmental disruptions such as **heavy rain, extreme heat, and poor air quality**.
+
+**Key areas:**
+
+* Parametric insurance
+* Income protection
+* Risk assessment
+* Dynamic premium concepts
+* Automated claim workflows
+* Fraud detection
+* AI-assisted risk analysis
+
+**Tech:** Next.js · React · TypeScript · Node.js · MongoDB · Tailwind CSS · AI/ML
+
+---
+
+## 🥈 [Manuscript2Video-AI](https://github.com/vasanth-1208/Manuscript2Video-AI)
+
+### Multilingual AI Heritage Storytelling Platform
+
+An AI-powered pipeline that transforms historical manuscript content into engaging visual stories.
+
+**Pipeline:**
+
+`Manuscript → OCR → Text Extraction → Translation → Story Generation → Narration → Video`
+
+**Key areas:**
+
+* Historical manuscript processing
+* Multilingual OCR
+* Text extraction
+* Translation
+* AI/NLP-based storytelling
+* Automated video generation
+* Digital heritage preservation
+
+**Tech:** Python · Flask · React · Vite · OCR · AI/NLP
+
+---
+
+## 🥉 [AgriTwin AI](https://github.com/vasanth-1208/AgriTwin_AI)
+
+### Smart Farming Digital Twin Platform
+
+A digital twin platform designed to provide a unified view of farm conditions, crop health, soil moisture, weather, irrigation, and agricultural risks.
+
+**Key areas:**
+
+* Digital farm twin
+* Crop monitoring
+* Soil and environmental data
+* Irrigation insights
+* Crop health
+* Risk monitoring
+* Agricultural analytics
+
+**Tech:** React · TypeScript · Vite · Convex · Tailwind CSS
+
+---
+
+## ⚙️ [AI-Driven Predictive Maintenance System](https://github.com/vasanth-1208/AI-Driven-Predictive-Maintenance-System)
+
+### Intelligent Industrial Predictive Maintenance Platform
+
+A system focused on monitoring machine conditions and using data-driven insights to identify potential maintenance requirements before failures occur.
+
+**Key areas:**
+
+* Machine monitoring
+* Predictive maintenance
+* Machine health insights
+* Telemetry visualization
+* Fleet monitoring
+* Maintenance intelligence
+
+**Tech:** React · TypeScript · Vite · Convex · Tailwind CSS · Data Visualization
+
+---
+
+## 🏦 [CrediMind AI](https://github.com/vasanth-1208/CrediMind-AI)
+
+### AI-Powered Corporate Credit Appraisal & Loan Decision Engine
+
+An intelligent credit appraisal platform designed to simulate how financial institutions evaluate corporate loan applications using financial information, risk assessment, and AI-assisted decision support.
+
+**Key areas:**
+
+* Corporate credit appraisal
+* Financial risk assessment
+* Loan decision support
+* Explainable credit insights
+* AI-assisted financial analysis
+
+**Tech:** React · TypeScript · Vite · Convex
+
+---
+
+## 🔎 [BITFind](https://github.com/vasanth-1208/BITFind)
+
+### Smart Campus Lost & Found Management System
+
+A campus-focused platform for reporting, discovering, and managing lost and found items.
+
+**Key areas:**
+
+* Lost item reporting
+* Found item reporting
+* Item search
+* User authentication
+* Contact management
+* Report management
+* Campus-focused workflow
+
+**Tech:** Node.js · Express · MySQL · HTML · CSS · JavaScript
+
+---
+
+# 🌟 More Projects
+
+### 🏛️ [Heritage & Culture 3D Map](https://github.com/vasanth-1208/Heritage-and-Culture-3D-Map)
+
+Interactive heritage discovery platform featuring cultural destinations, interactive maps, and virtual tourism experiences.
+
+**Focus:** Digital Heritage · Cultural Preservation · Virtual Tourism · 360° Experiences
+
+---
+
+### ☀️ [YantraSolar](https://github.com/vasanth-1208/YantraSolar)
+
+Astronomical and traditional Yantra computation platform for solar-position and related calculations.
+
+**Focus:** Computational Astronomy · Solar Position · Traditional Indian Astronomy
+
+---
+
+### 🌱 [EcoTrack AI](https://github.com/vasanth-1208/EcoTrack-AI)
+
+AI-powered carbon intelligence platform for understanding emissions and supporting sustainable lifestyle decisions.
+
+**Focus:** Sustainability · Carbon Intelligence · AI · Data Analytics
+
+---
+
+### 🏦 [FinSight AI](https://github.com/vasanth-1208/FinSight-AI)
+
+Intelligent BFSI financial assistant focused on financial services and customer-oriented interactions.
+
+**Focus:** BFSI · FinTech · AI Applications
+
+---
+
+### 📚 [EquiX](https://github.com/vasanth-1208/EquiX)
+
+Interactive mathematics learning and assessment platform with learning content, practice, assessments, analytics, and gamification.
+
+**Focus:** EdTech · Mathematics · Interactive Learning
+
+---
+
+### 🏥 Nexora Health
+
+Smart hospital patient flow and bed management system designed to streamline patient movement and provide real-time visibility into bed availability.
+
+**Focus:** Healthcare · Workflow Automation · Real-Time Systems
+
+---
+
+# 🧩 Other Projects
+
+| Project               | Focus                             |
+| --------------------- | --------------------------------- |
+| **SkillTrack**        | Student Skill Progress Management |
+| **Finance RAG**       | Financial Report Intelligence     |
+| **Supply Chain RAG**  | Document Question Answering       |
+| **RoboLog Backend**   | NestJS Backend & Authentication   |
+| **Lensora**           | Photography Portfolio             |
+| **NovaFlow**          | SaaS Landing Page                 |
+| **TaskFlow**          | Personal Task Management          |
+| **TuneFlow**          | Web Music Player                  |
+| **ChatFlow UI**       | Responsive Chat Interface         |
+| **HTML Learning Lab** | HTML Learning & Practice          |
+
+---
+
+# 🧠 Areas of Interest
 
 ```text
 Artificial Intelligence
@@ -100,6 +283,7 @@ Machine Learning
 Generative AI
 Large Language Models
 RAG Systems
+AI Agents
 Full-Stack Development
 Backend Engineering
 Database Systems
@@ -111,186 +295,31 @@ Problem Solving
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌾 AgriTwin AI
-
-**AI-powered Smart Farming Digital Twin Platform**
-
-A digital twin platform designed to provide a unified view of farm conditions, crop health, soil moisture, weather, irrigation, and agricultural risks.
-
-**Focus:** Digital Twins · Smart Agriculture · AI · Data Visualization
-
-**Tech:** React · TypeScript · Vite · Convex · Tailwind CSS
-
----
-
-## 🏦 CrediMind AI
-
-**AI-Powered Corporate Credit Appraisal & Loan Decision Engine**
-
-An intelligent credit appraisal platform designed to simulate how financial institutions evaluate corporate loan applications using financial information, risk assessment, and AI-assisted decision making.
-
-**Focus:** Financial Intelligence · Credit Risk · AI Decision Support
-
-**Tech:** React · TypeScript · Vite · Convex
-
----
-
-## 💳 FinSight AI
-
-**Intelligent BFSI Financial Assistant**
-
-A financial technology project focused on improving customer-oriented interactions in the banking, financial services, and insurance domain through an intelligent assistant experience.
-
-**Focus:** BFSI · Financial Technology · AI Applications
-
-**Tech:** JavaScript · HTML · CSS
-
----
-
-## 🛡️ ZyroShield
-
-**AI-Powered Parametric Income Protection Platform**
-
-A parametric insurance platform designed for gig delivery workers whose income can be affected by environmental disruptions such as heavy rain, extreme heat, and poor air quality.
-
-The platform focuses on:
-
-* Risk assessment
-* Parametric insurance
-* Dynamic premium concepts
-* Automated claim workflows
-* Income protection
-* Fraud detection
-* AI-assisted risk analysis
-
-**Tech:** Next.js · React · TypeScript · Node.js · MongoDB · Tailwind CSS · AI/ML
-
----
-
-## 🌱 EcoTrack AI
-
-**AI-Powered Personal Carbon Intelligence Platform**
-
-A full-stack platform designed to help users understand their carbon footprint, analyze emission sources, and receive AI-powered recommendations for reducing environmental impact.
-
-**Focus:** Sustainability · Carbon Intelligence · AI · Data Analytics
-
-**Tech:** Next.js · TypeScript · Node.js · Express · PostgreSQL · Gemini AI
-
----
-
-## 📜 Manuscript2Video AI
-
-**Multilingual Heritage Storytelling Platform**
-
-An AI-powered pipeline for transforming historical manuscript content into engaging visual stories.
-
-The workflow combines:
-
-**Manuscript → OCR → Text Extraction → Translation → Story Generation → Narration → Video**
-
-**Focus:** AI · OCR · Multilingual Processing · Digital Heritage · Storytelling
-
-**Tech:** Python · Flask · React · Vite · OCR · AI/NLP
-
----
-
-## 🏛️ Heritage & Culture 3D Map
-
-**Interactive Heritage Discovery & Virtual Tourism Platform**
-
-An immersive platform for discovering cultural and heritage destinations through interactive maps and virtual experiences.
-
-**Focus:** Digital Heritage · Cultural Preservation · Virtual Tourism · Interactive Experiences
-
-**Tech:** HTML · CSS · JavaScript · Interactive Maps · 360° Virtual Tours
-
----
-
-## 🏥 Nexora Health
-
-**Smart Hospital Patient Flow & Bed Management System**
-
-A hospital workflow platform designed to streamline the patient journey from registration to discharge while providing real-time visibility into hospital bed availability and patient movement.
-
-**Focus:** Healthcare · Workflow Automation · Real-Time Systems · Bed Management
-
-**Tech:** React · TypeScript · Node.js · Express · MongoDB · Socket.IO
-
----
-
-## 📚 EquiX
-
-**Interactive Mathematics Learning & Assessment Platform**
-
-A learning platform designed around interactive mathematics education, practice, assessments, analytics, and gamification.
-
-**Focus:** EdTech · Mathematics · Interactive Learning · Assessment
-
-**Tech:** Next.js · React · MongoDB · Zustand · Recharts · Three.js · KaTeX
-
----
-
-# 🧩 Other Projects
-
-| Project               | Area                                      |
-| --------------------- | ----------------------------------------- |
-| **BITFind**           | Smart Campus Lost & Found                 |
-| **SkillTrack**        | Student Skill Progress Management         |
-| **YantraSolar**       | Astronomical & Solar Position Computation |
-| **Finance RAG**       | Financial Report Question Answering       |
-| **Supply Chain RAG**  | Supply Chain Document Intelligence        |
-| **RoboLog Backend**   | NestJS Backend & Authentication           |
-| **Lensora**           | Photography Portfolio                     |
-| **NovaFlow**          | SaaS Landing Page                         |
-| **TaskFlow**          | Personal Task Management                  |
-| **TuneFlow**          | Web Music Player                          |
-| **ChatFlow UI**       | Responsive Chat Interface                 |
-| **HTML Learning Lab** | HTML Learning & Practice                  |
-
----
-
-# 🔬 What I Build
+# 🔬 How I Approach Projects
 
 ```text
-                 ┌───────────────────────┐
-                 │      Real Problems    │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │   Software Solutions  │
-                 └───────────┬───────────┘
-                             │
-            ┌────────────────┼────────────────┐
-            ▼                ▼                ▼
-        AI / ML         Full Stack         Backend
-            │                │                │
-            └────────────────┼────────────────┘
-                             ▼
-                 ┌───────────────────────┐
-                 │ Data & Intelligence   │
-                 └───────────┬───────────┘
-                             ▼
-                 ┌───────────────────────┐
-                 │ Practical Applications│
-                 └───────────────────────┘
+        Real-World Problem
+                │
+                ▼
+        Understand the Domain
+                │
+                ▼
+       Design the Architecture
+                │
+        ┌───────┼────────┐
+        ▼       ▼        ▼
+       AI     Backend   Frontend
+        │       │        │
+        └───────┼────────┘
+                ▼
+       Integrate & Validate
+                │
+                ▼
+       Build a Usable Product
+                │
+                ▼
+       Improve & Iterate
 ```
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasanth-1208&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-1208&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vasanth-1208&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
@@ -349,12 +378,25 @@ A learning platform designed around interactive mathematics education, practice,
 * 🌐 Build scalable full-stack systems
 * ☁️ Improve cloud and DevOps skills
 * 🏆 Participate in more hackathons and technical competitions
-* 📂 Maintain high-quality, well-documented open-source projects
+* 📂 Maintain high-quality and well-documented projects
 * 💼 Prepare for software engineering internships and industry opportunities
 
 ---
 
-# 📈 Development Philosophy
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasanth-1208&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-1208&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vasanth-1208&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# 💡 Development Philosophy
 
 > **Build. Learn. Improve. Repeat.**
 
