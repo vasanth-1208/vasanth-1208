@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Vasantharaj 👋
+B.E. Computer Science & Engineering @ BIT
 
-<!--
-**vasanth-1208/vasanth-1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Developer • Full-Stack Developer • Problem Solver
 
-Here are some ideas to get you started:
+────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+💻 Tech Stack
+🧠 Areas of Interest
+🔥 Featured Projects
+📊 GitHub Statistics
+🏆 Achievements
+📚 Currently Learning
+🎯 2026 Goals
+🤝 Connect With Me
